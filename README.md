@@ -5,8 +5,8 @@ HawkSec is the computer security club at the University of Iowa. Our goal is to 
 Meeting times and locations to be announced soon!
 
 ### Executive Members
-- **President:** Ralph Nahra @Rallph
-- **Vice President**: John Hofmann @jhofmann33
+- **President:** Ralph Nahra [@Rallph](https://github.com/Rallph)
+- **Vice President**: John Hofmann [@jhofmann33](https://github.com/jhofmann33)
 - **Finance & Logistics Chair**: Claudio Mema
 
 
